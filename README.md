@@ -11,6 +11,7 @@
 I build the plumbing that lets large language models do real work — MCP servers, agent skills, and the evaluation harnesses that prove they got the answer right.
 
 **By day I'm an AI Engineer at Colibri Group**, where I build Model Context Protocol tooling and an AI-native learning platform that author, grade, and coach with Claude, Gemini, OpenAI, and AWS Bedrock. Before that I was an **undergraduate researcher in UC Davis Statistics**, modeling Formula 1 race outcomes from telemetry with ranking models and Monte Carlo simulation. Now I'm continuing at the **University of Chicago's MS in Applied Data Science**.
+I'm most interested in machine learning, decision-making under uncertainty, and motorsport analytics, and in building systems with measurable real-world impact.
 
 ---
 
