@@ -2,10 +2,10 @@
 
 ### AI Engineer at Colibri Group — building MCP servers, AI agents, and LLM evaluation | MS in Applied Data Science, University of Chicago
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohanpillay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanpillay/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohan--pillay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-pillay-098902323/)
 ![UChicago](https://img.shields.io/badge/MS%20Applied%20Data%20Science-University%20of%20Chicago-800000?style=for-the-badge)
 ![UC Davis](https://img.shields.io/badge/BS%20Statistics%20%26%20Data%20Science-UC%20Davis-022851?style=for-the-badge)
-![Location](https://img.shields.io/badge/Pleasanton%2C%20CA-424242?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Dublin%2C%20CA%20%C2%B7%20Bay%20Area-424242?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Open to conversations](https://img.shields.io/badge/Open%20to%20conversations-2EA043?style=for-the-badge)
 
 I build the plumbing that lets large language models do real work — MCP servers, agent skills, and the evaluation harnesses that prove they got the answer right.
