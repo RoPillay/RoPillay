@@ -10,7 +10,7 @@
 
 I build the plumbing that lets large language models do real work — MCP servers, agent skills, and the evaluation harnesses that prove they got the answer right.
 
-**By day I'm an AI Engineer at Colibri Group**, where I build Model Context Protocol tooling and an AI-native learning platform that author, grade, and coach with Claude, Gemini, OpenAI, and AWS Bedrock. Before that I was an **undergraduate researcher in UC Davis Statistics**, modeling Formula 1 race outcomes from telemetry with ranking models and Monte Carlo simulation. Now I'm continuing at the **University of Chicago's MS in Applied Data Science**.
+I'm an AI Engineer at **Colibri Group**, where I work on MCP servers, Claude agent skills, and the learning platform they power. Before that, I did undergraduate research in **UC Davis Statistics**, using Formula 1 telemetry to model race outcomes with ranking models and Monte Carlo simulation. I'm now pursuing my MS in Applied Data Science at the **University of Chicago**.
 
 I'm most interested in machine learning, decision-making under uncertainty, and motorsport analytics, and in building systems with measurable real-world impact.
 
@@ -18,11 +18,11 @@ I'm most interested in machine learning, decision-making under uncertainty, and 
 
 ## Impact
 
-**A 21-tool MCP server that ships whole course tracks** — built in TypeScript on Cloudflare Workers, paired with a Claude agent skill that authors, validates, and publishes LMS course tracks across Claude, Gemini, and OpenAI.
+**A 25-tool MCP server for building whole LMS programs** — co-built in TypeScript on Cloudflare Workers, with a Claude agent skill that lets subject-matter experts author, validate, and export full programs through conversation.
 
-**An AI-native LMS, soft-launched internally** — co-developed learner, Course Studio, and admin portals (React, Cloudflare Workers, PostgreSQL) with behavioral analytics, and extended Rubi, an AWS Bedrock AI grader and lesson coach, with acceptance-criteria grading and in-module coaching.
+**An LMS with 200+ active users** — built the learner, authoring, and admin portals (React, Cloudflare Workers, PostgreSQL) and integrated AWS Bedrock LLM grading against acceptance criteria.
 
-**LLM answers checked against ground truth** — a Python evaluation framework that grades an analytics MCP against analyst-verified reference SQL using a separate-vendor LLM judge. A/B tested a unified MCP gateway at 1.6–2.7x token overhead with no accuracy loss.
+**239 LLM runs checked against ground truth** — a Python evaluation framework for an analytics MCP, with a cross-vendor LLM judge grading each run against analyst-verified SQL. A/B tested a unified MCP gateway: same accuracy at 1.6–2.7x the token cost.
 
 **~64% of podiums predicted in a stochastic sport** — Plackett–Luce and two-stage XGBRanker models with walk-forward cross-validation, reaching Spearman ~0.69 on Formula 1 finishing order.
 
@@ -38,9 +38,9 @@ I'm most interested in machine learning, decision-making under uncertainty, and 
 | --- | --- |
 | Build MCP servers and agent skills that let LLMs act on real systems, not just chat | Model noisy, stochastic outcomes with ranking models, gradient boosting, and simulation |
 | Evaluate LLM output against verified ground truth with independent LLM judges | Walk-forward validation, feature selection, and VIF analysis before trusting a model |
-| Ship full-stack: React front ends, Cloudflare Workers, PostgreSQL, AWS Bedrock | Turn raw telemetry, audio, and API data into clean, modelable datasets |
+| Ship full-stack: React front ends, Cloudflare Workers, PostgreSQL, AWS Bedrock and DynamoDB | Turn raw telemetry, audio, and API data into clean, modelable datasets |
 | Measure the cost of architecture choices — token overhead, accuracy, latency | Put models in front of people as interactive dashboards and web apps |
-| Work across model vendors: Claude, Gemini, and OpenAI | Python and R end to end, from scraping to deployment |
+| Compare model vendors on accuracy and cost with cross-vendor judges | Python and R end to end, from scraping to deployment |
 
 ---
 
@@ -64,6 +64,7 @@ I'm most interested in machine learning, decision-making under uncertainty, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **AI & Machine Learning**
@@ -83,18 +84,23 @@ I'm most interested in machine learning, decision-making under uncertainty, and 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20%28Bedrock%2C%20DynamoDB%29-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20Cloud%20SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 **Data & Analytics**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly%20%2F%20Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3C873A?style=for-the-badge)
 ![FastF1](https://img.shields.io/badge/FastF1-E10600?style=for-the-badge)
 
 ---
