@@ -107,7 +107,7 @@ I'm most interested in machine learning, decision-making under uncertainty, and 
 
 ## Selected work
 
-**[Formula 1 Race Prediction](https://github.com/RoPillay/Formula1-Race-Prediction)** — ongoing UC Davis research: regularized Plackett–Luce and two-stage XGBRanker models over telemetry, qualifying, and race-context features, predicting ~64% of podium finishes with Spearman ~0.69.
+**[Formula 1 Race Prediction](https://github.com/RoPillay/Formula1-Race-Prediction)** — UC Davis research: regularized Plackett–Luce and two-stage XGBRanker models over telemetry, qualifying, and race-context features, predicting ~64% of podium finishes with Spearman ~0.69.
 
 **[F1 Race Simulator](https://github.com/RoPillay/f1-simulator)** — single- and multi-driver Monte Carlo simulation of tire degradation, pit strategy, and race interaction dynamics, with a reinforcement learning environment for strategy optimization.
 
