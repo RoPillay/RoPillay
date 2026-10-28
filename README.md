@@ -48,7 +48,6 @@ I'm most interested in machine learning, decision-making under uncertainty, and 
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents%20%26%20MCP-1B3A5C?style=for-the-badge)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-1B3A5C?style=for-the-badge)
-![EdTech](https://img.shields.io/badge/EdTech%20%2F%20LMS-1B3A5C?style=for-the-badge)
 ![Sports Analytics](https://img.shields.io/badge/Sports%20Analytics%20%2F%20F1-1B3A5C?style=for-the-badge)
 ![Music Analytics](https://img.shields.io/badge/Music%20Analytics-1B3A5C?style=for-the-badge)
 ![Simulation](https://img.shields.io/badge/Monte%20Carlo%20Simulation-1B3A5C?style=for-the-badge)
